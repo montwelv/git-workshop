@@ -56,3 +56,7 @@ dkms.conf
 
 # Arquivos de configuração do editor
 /.vscode/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
